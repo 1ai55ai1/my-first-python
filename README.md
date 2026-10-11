@@ -1,4 +1,4 @@
-﻿# 我的第一个 Python 项目
+# 我的第一个 Python 项目
 
 这是我的第一个 Python 项目，用来学习 Git 与 GitHub。
 
